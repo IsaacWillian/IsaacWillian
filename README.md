@@ -6,7 +6,6 @@ Atualmente estudando e trabalhando com desenvolvimento Android Nativo com (Java/
 
 #### Confira alguns projetos 
 
+- [WaterReminder App](https://github.com/IsaacWillian/waterReminderApp)
 - [App de Notícias](https://github.com/IsaacWillian/NewsAPP)
 - [App de reconhecimento de objetos utilizando o camera samples](https://github.com/IsaacWillian/camera-samples/tree/main/CameraXTfLite)
-- [GuestApps](https://github.com/IsaacWillian/GuestsApp)
-- [Motivation App](https://github.com/IsaacWillian/MotivationApp)
