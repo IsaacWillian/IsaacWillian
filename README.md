@@ -1,32 +1,44 @@
 ### Hi, I am Isaac Willian, Android Developer👋
 
-Android Developer with 2+ years. I am an undergraduate in Computer Science at Federal University of São Carlos. I really like solving problems and making people's lives easier, always thinking about the simplicity of use and intuitive interface. I am very interested in mobile applications due to the power of the transformation of people and society.
+As an Android developer, I have worked in startups and large companies in the financial market, designed and developed applications used by thousands of users, as well as MVPs and SDKs. Always seeking to specialize to deliver the best possible solutions for users, and in addition always seeking to help colleagues and leaders, playing as a team. With a solid foundation in Kotlin and Android, and with experience in solutions using Clean Architecture, MVVM, Camera, Consumo APIs, Android NDK, Google Play Billing Library, Services and Firebase.
 
-SKILLS:
+#### Projects that I already worked
+ - Bank app for a famous Bank in Brazil
+ - NFT Marketplace for a Global Startup
+ - Facial Recognition SDK for Brazilian Startup
+ - Clock in App for a Brazilian Startup
+
+
+#### Check some projects: 
+##### Water Reminder app [Link](https://github.com/IsaacWillian/waterReminderAndroidApp)
+  Project that I use to apply all new learnings, it is currently published on the playstore and has already received more than 100 downloads and a 5-star rating ([link]https://play.google.com/store/apps/details?id=com.isaaclabs.bebaja&hl=pt&pli=1)
+
+##### CI/CD POC [Link](https://github.com/IsaacWillian/CI-CD-poc)
+  Aplicativo que irei construir utilizando conceitos de CI/CD, MVP Architecture e outras bibliotecas que gostaria de estudar
+
+#### Other Pocs
+This year I began write articles to teach other developers and began made pocs apps for example
+  -  [Access Files POC](https://github.com/IsaacWillian/AccessFilesAndroid-POC)
+
+#### SKILLS
 Android  
 Kotlin, Java  
-Retrofit and Fuel  
-Room and Realm  
-JUnit  
+Rest API ( Retrofit and Fuel ) 
+Database ( Room and Realm )
+Unit Tests ( JUnit )  
+MVVM
+Clean Architecture
+SOLID Principles  
 KotlinFlow and Kotlin Coroutines  
-Koin  
-Google Play Billing Library  
+Dependency injection ( Koin )  
+Jetpack Componentes (CameraX, WorkManager, ViewModel, Navigation)  
+GIT 
+Monetization ( Google Play Billing Library and AdMob )
 Firebase Storage  
 Firebase Remote Config  
 Firebase RealTime Database  
 Analytics (Firebase, Singular e MixPanel)  
-Motion Layout(Animations)  
-MVVM  
-Clean Arch  
-SOLID Principles  
-Jetpack Componentes (CameraX, WorkManager)  
-GIT  
-
-#### Check some projects: 
-
-- [WaterReminder App](https://github.com/IsaacWillian/waterReminderApp)
-- [News App](https://github.com/IsaacWillian/NewsAPP)
-- [Recognition Object App using camera samples](https://github.com/IsaacWillian/camera-samples/tree/main/CameraXTfLite)
+Motion Layout ( Animations )  
 
 
 ## My contacts:
