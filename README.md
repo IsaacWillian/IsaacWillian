@@ -11,7 +11,7 @@ As an Android developer, I have worked in startups and large companies in the fi
 
 ### Check some projects: 
 #### Water Reminder app [Link](https://github.com/IsaacWillian/waterReminderAndroidApp)
-  Project that I use to apply all new learnings, it is currently published on the playstore and has already received more than 100 downloads and a 5-star rating ([link]https://play.google.com/store/apps/details?id=com.isaaclabs.bebaja&hl=pt&pli=1)
+  Project that I use to apply all new learnings, it is currently published on the playstore and has already received more than 100 downloads and a 5-star rating ([link](https://play.google.com/store/apps/details?id=com.isaaclabs.bebaja&hl=pt&pli=1))
 
 #### CI/CD POC [Link](https://github.com/IsaacWillian/CI-CD-poc)
   Application that I will build using CI/CD concepts, MVP Architecture and other libraries that I would like to study
